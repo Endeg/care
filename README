@@ -1,7 +1,7 @@
-﻿Simple 2d game engine-framework thingy based on SDL, OpenGL and Lua.
+Simple 2d game engine-framework thingy based on ZenGL library and Lua.
 Inspired by such engine-framework thingies like:
 * LÖVE (https://love2d.org/)
 * EGSL (http://egsl.retrogamecoding.org/)
-* Brick Engine (http://rs.tc/br/doku.php (this link is not working for some reason))
+* Brick Engine (http://rs.tc/br/doku.php (what a shame, link isn't working)
 
 *** Very WIP! ***
